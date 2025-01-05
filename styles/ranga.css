@@ -1,10 +1,9 @@
-div {
+p {
 
-    color: coral;
+    color: rgba(255, 255, 80, 0.947);
 
-    background-color: deepskyblue;
+    background-color: rgb(15, 15, 15);
 
-    padding 10000000px
-
+    margin-bottom: 10px;
 
 }
